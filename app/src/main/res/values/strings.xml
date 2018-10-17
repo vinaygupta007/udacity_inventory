@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Inventory app</string>
+    <string name="productname_text">product name</string>
+    <string name="price_text">price</string>
+    <string name="supplier_name_text">supplier name</string>
+    <string name="supplier_phn_no_text">supplier phone number</string>
+    <string name="done_string">done</string>
+    <string name="quantity_string">Quantity :</string>
+    <string name="quantityalreadyzero">quantity can\'t be lesser than 0.</string>
+    <string name="addinventory_label">Add Inventory</string>
+    <string name="emptyproductname">empty product name</string>
+    <string name="emptyprice">empty price</string>
+    <string name="emptysuppliername">empty supplier name</string>
+    <string name="emptysupplierphnno">empty supplier phone number</string>
+    <string name="emptyquantity">lesser than 0</string>
+    <string name="addsymbol"> + </string>
+    <string name="subsymbol"> - </string>
+    <string name="zeronumber"> 0 </string>
+    <string name="errorininsertion">Error while inserting values.</string>
+    <string name="insert_fail">error while insering values.</string>
+    <string name="inserted_successfully">values has been inserted successfully,</string>
+    <string name="add_inventroy">Add Inventory</string>
+    <string name="edit_inv">Edit Inventory</string>
+    <string name="edit_success">Edit SuccessFully.</string>
+    <string name="edit_failed">Edit Failed.</string>
+</resources>
